@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c0d2a9c39766f46c40950aa9",
+  "owner": "bfnhwhp",
+  "repo": "page-8978b8441890d104c3b41856",
+  "title": "超牛(Cow)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8978b8441890d104c3b41856",
+      "a": "超牛(Cow)",
+      "b": "",
+      "entity": "超牛(Cow)",
+      "brand": "超牛(Cow)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "18f8feb58d2280aaf18902049abf125fbb0ce71b915162ef638395f74c509d91",
+      "content": {
+        "keyword1": "超牛(Cow)",
+        "keyword2": "",
+        "primary_entity": "超牛(Cow)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "超牛(Cow)用问答把页面读法、套餐对照、客户端说明和折叠问答一次写完，语气像在旁边替你把问题问完。",
+          "AI_DESCRIPTION": "超牛(Cow)用问答把页面读法、套餐对照、客户端说明和折叠问答一次写完，语气像在旁边替你把问题问完。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{font-size:18px}\nbody{font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;background:#1c120c;color:#f3eee6;line-height:1.75}\na{color:#7fe3c4;text-decoration:none}\na:hover{text-decoration:underline}\n.wrap{max-width:42rem;margin:0 auto;padding:1.1rem 1.15rem 4rem}\n.crumb{font-size:.78rem;letter-spacing:.08em;color:#c9b8a8;border-bottom:1px solid #3a2a22;padding-bottom:.7rem;margin-bottom:.9rem}\n.crumb span{color:#7fe3c4}\n.toc{display:flex;flex-wrap:wrap;gap:.45rem .9rem;font-size:.82rem;margin-bottom:2.2rem}\n.toc a{color:#d8cfc4;border-bottom:1px dotted #7fe3c4}\nmain{display:block}\n.essay{padding:0 0 2rem}\n.kicker{font-size:.75rem;color:#7fe3c4;letter-spacing:.18em;text-transform:uppercase;margin-bottom:.8rem}\nh1{font-size:clamp(1.7rem,5vw,2.35rem);font-weight:700;color:#f7f1e8;line-height:1.25;margin-bottom:1.1rem}\n.lede{font-size:1.05rem;color:#e7ddd2}\n.lede p{margin-bottom:1rem}\nh2{font-size:1.28rem;color:#7fe3c4;margin:2.4rem 0 .8rem;font-weight:700}\nh3{font-size:1.05rem;color:#f3eee6;margin:1.2rem 0 .45rem}\np{margin-bottom:.85rem;color:#e4d8cc}\n.how ol{padding-left:1.2rem;margin:.6rem 0 1.2rem}\n.how li{margin:.4rem 0}\n.card{position:relative;padding:1.35rem 1.15rem 1.2rem;margin:1.1rem 0;background:#26170f;overflow:hidden}\n.card .num{position:absolute;right:.15rem;bottom:-.55rem;font-size:6.2rem;line-height:.8;font-weight:800;color:rgba(127,227,196,.12);pointer-events:none}\n.card h3{position:relative;z-index:1}\n.card p,.card ul{position:relative;z-index:1}\n.card ul{padding-left:1.1rem;margin:.4rem 0 .7rem}\n.mark{display:inline-block;background:#7fe3c4;color:#1c120c;font-size:.72rem;padding:.1rem .4rem;margin-left:.4rem;letter-spacing:.04em}\n.price{color:#7fe3c4;font-size:1.15rem}\n.note{font-size:.88rem;color:#c9b8a8}\n.faq details{border-bottom:1px solid #3a2a22;padding:.7rem 0}\n.faq summary{cursor:pointer;color:#f7f1e8;font-weight:600}\n.faq details p{margin-top:.45rem;color:#d8cfc4}\nfooter{margin-top:2.6rem;font-size:.8rem;color:#8a7a6d;border-top:1px solid #3a2a22;padding-top:.9rem}\n@media(max-width:640px){\n.wrap{padding:1rem .9rem 3rem}\n.card .num{font-size:4.6rem}\n}\n</style><div class=\"wrap\">\n<nav>\n<p class=\"crumb\">首页 / <span>超牛(Cow)</span> / 阅读页</p>\n<div class=\"toc\">\n<a href=\"#read\">怎么读</a>\n<a href=\"#how\">使用说明</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</div>\n</nav>\n<main>\n<article class=\"essay\" id=\"read\">\n<p class=\"kicker\">专栏开篇</p>\n<h1>超牛(Cow)</h1>\n<div class=\"lede\">\n<p>你是不是刚点进来，就想问三件事：这页到底讲什么、钱怎么算、软件从哪来？好，我们就按这个顺序把话说明白，不绕弯。</p>\n<p>超牛(Cow)这个名字放在标题里，是为了让你确认自己没走错门。下面没有口号墙，只有一段可以慢慢读的说明：先把阅读路径讲清，再把步骤、套餐、客户端和折叠问答摊开。页面上的价格与条目来自本页列出的参考档位，并不额外添加未给出的身份、评测或退款承诺。</p>\n<p>若你习惯被带着问：先看「使用说明」确认自己要做什么；再看单列大卡，把基础、旗舰、团队三档对着读；客户端没有可核验的下载地址时，只写中性提示；最后用折叠问答把零碎疑虑收掉。读完仍不确定，就回到目录，从任一锚点再进一次。</p>\n</div>\n</article>\n\n<section class=\"how\" id=\"how\">\n<h2>使用说明：先问自己四步</h2>\n<p>问：我该从哪一步开始？答：按下面四问走，不必一次做完。</p>\n<ol>\n<li>问自己要对照的是个人用量还是多人共用，再决定看哪一张套餐卡。</li>\n<li>问自己能否接受按月或按年结算，数字写在每张卡的价格行里。</li>\n<li>问自己设备从哪安装：本页没有可核验的官方包地址，请只用你手头已有的可信来源，或暂缓安装。</li>\n<li>问自己还有没有没被套餐条目覆盖的问题，去常见问题区把对应折叠项点开。</li>\n</ol>\n<p>问：中间卡住怎么办？答：回到顶部目录，点回刚才那一节。说明写在纸面上，不依赖弹窗。</p>\n</section>\n\n<section id=\"plans\">\n<h2>套餐：单列大卡，一张问完再翻下一张</h2>\n<p>问：为什么不并排？答：并排容易扫过去。下面每张卡把编号压在底部，逼你把权益条目读完再决定。</p>\n\n<article class=\"card\">\n<span class=\"num\">01</span>\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"note\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<p>问：这档适合谁先看？答：用量不大、设备不多、只想先把条目对齐的人。</p>\n</article>\n\n<article class=\"card\">\n<span class=\"num\">02</span>\n<h3>旗舰版 <span class=\"mark\">推荐对照</span></h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"note\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<p>问：为什么单独标对照？答：条目比上一档多，方便你逐条划掉不需要的部分。</p>\n</article>\n\n<article class=\"card\">\n<span class=\"num\">03</span>\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"note\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<p>问：人多就一定要这档吗？答：不一定。先数设备台数和流量是否对得上，对不上再回头看旗舰或基础。</p>\n</article>\n</section>\n\n<section id=\"clients\">\n<h2>客户端：先问有没有可核验地址</h2>\n<div class=\"card\">\n<span class=\"num\">04</span>\n<h3>安装入口说明</h3>\n<p>问：官方安装包链接在哪？答：当前没有可核验的下载地址，因此不填写伪造链接，按钮式跳转也不提供。</p>\n<p>问：那我怎么用？答：若你已从既有渠道持有客户端，按该软件自己的导入或登录流程操作；若没有，请先不要从不明站点抓取安装文件。</p>\n<p>问：系统名单呢？答：未提供兼容性清单，本页不编造支持的系统版本。</p>\n</div>\n</section>\n\n<section class=\"faq\" id=\"faq\">\n<h2>常见问题</h2>\n<p>问：为什么用折叠？答：你只打开自己卡着的那一条，避免被整页问答淹没。</p>\n<details>\n<summary>超牛(Cow)这页能当合同或官方背书吗？</summary>\n<p>不能。正文只整理本页给出的套餐条目与阅读路径，不补充未提供的公司资质、节点规模或用户评价。</p>\n</details>\n<details>\n<summary>价格以外还有隐藏费用吗？</summary>\n<p>本页只写参考档位里的月价与年价表述。未列出的手续费、渠道加价或退款规则，这里一律不编造。</p>\n</details>\n<details>\n<summary>流量和设备数写得很具体，能当实测吗？</summary>\n<p>那些句子来自套餐参考列表，用于对照，不是实验室数据，也不是日志截图。</p>\n</details>\n<details>\n<summary>找不到下载该怎么办？</summary>\n<p>保持链接为空，使用 <a href=\"#\">#</a> 仅作占位跳转。在获得可核验地址之前，不要把陌生安装包当作本品牌附件。</p>\n</details>\n<details>\n<summary>读完仍不知道选哪一档？</summary>\n<p>回到套餐区，用「设备台数」和「每月流量」两问筛：对得上就停，对不上就换一张卡再问一遍。</p>\n</details>\n</section>\n</main>\n<footer>超牛(Cow) · 静态说明页 · 仅展示本页已写入内容</footer>\n</div>",
+          "hash": "5bd1530efb26258ab8eb947a76f6382cc9d8bebe38c3816ff4f7e6502ed74b3f",
+          "seo": {
+            "title": "超牛(Cow)｜用问答把订阅、客户端和常见疑问摊开讲清",
+            "keywords": "超牛,Cow,超牛订阅,超牛说明,超牛常见问题",
+            "description": "超牛(Cow)用问答把页面读法、套餐对照、客户端说明和折叠问答一次写完，语气像在旁边替你把问题问完。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "9628",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zmdjejddsoo3.cn",
+    "host": "p-c5b90706e0.zmdjejddsoo3.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "bbf6f94f0109e1ee174bea41ebbf6eebb81c739d93560f25af705515755bca1c",
+    "sitemap.xml": "722ab3b41e3f9d710685494db84ee2c777fb23e839f4939f8b31048df42ac1cf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "787b205cf5ad73ff5f2caa27de22ef355c521d9fc3928792e2fd96de045e3ec2",
+    "robots.txt": "c14caf0ebb3e2553fd23766b239cbd75d67630385a012973f75a0499af0a3380",
+    "31414fa83929f398bb01890bb116dd19.txt": "7b08328239b24b4b1124e5100c9b28cf3c5600542e009cc1129f88bd3b016772"
+  },
+  "revision": "1c59245acd45b685fa3c6729682d38640907ae08bd87443992097641acac3cc7"
+}
